@@ -84,3 +84,9 @@ Bukan hanya Alumni berprestasi dibidang Akademik maupun sukses didunia kerja. Al
        memantau penggunaan produk termasuk jika ternyata ditemukan bug ataupun kendala 
        dan juga menginfokan kepada tim lain untuk dapat mengajak calon mahasiswa untuk mengakses MauKuliah
        
+# 2. Produk Sevima
+
+### Berikut adalah summary review produk SEVIMA
+
+[Produk Sevima.pdf](https://github.com/itsmaru/MauKuliah/files/9471627/Produk.Sevima.pdf)
+
