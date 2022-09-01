@@ -1,6 +1,6 @@
-# 1 MauKuliah
+# 1. MauKuliah
 
-# MauKuliah
+# a. MauKuliah
 MauKuliah adalah platform bagi calon mahasiswa yang dapat membantu guna menemukan Perguruan Tinggi terbaik dan sesuai dengan bakat dan minat . sehingga nantinya bisa menikmati perkuliahan dan diharapkan tidak ada salah jurusan
 
 ## Konsep Pengenalan Perguruan Tinggi
@@ -16,12 +16,13 @@ https://user-images.githubusercontent.com/100457770/187919280-4a714d1d-8b10-4c85
 [MauKuliah Present.pdf](https://github.com/itsmaru/MauKuliah/files/9469992/MauKuliah.Present.pdf)
 
 
-# NSM dari MauKuliah adalah Jumlah User Aktif Perbulan
+# b. NSM dari MauKuliah adalah Jumlah User Aktif Perbulan
 
-# Dan akan menggunakan CSAT (Customer Satisfaction) sebagai Support Method
+# c. Dan akan menggunakan CSAT (Customer Satisfaction) sebagai Support Method
 
-# Basic PRD
-[MauKuliahFLowchart.pdf](https://github.com/itsmaru/MauKuliah/files/9469964/MauKuliahFlowchart.pdf)
+# d. Basic PRD
+[MauKuliah Flowchart.pdf](https://github.com/itsmaru/MauKuliah/files/9470027/MauKuliah.Flowchart.pdf)
+
 
 ## Landing Page
 Landing Page akan menampilkan sesuatu yang fun sesuai dengan tema dibulan itu. misal seperti dibulan mei yang bertepatan dengan Puasa Ramadhan dan Hari raya, maka ornament akan ada nuansa yang sesuai misal ketupat, wording pembuka menggunakan kalimat seperti , "Udah tau mau pakai baju apa nanti waktu lebaran? warna merah atau biru? kalo jurusan kuliah udah tau belum mau ambil jurusan apa? ini Makumin* kasih tau beberapa ide jurusan buat kamu" lalu menampilkan beberapa kampus dengan jurusan terbaiknya
@@ -70,7 +71,7 @@ Sarana dan Prasarana, foto dan penjelasan tentang sarana dan prasarana dan jika 
 3. Alumni
 Bukan hanya Alumni berprestasi dibidang Akademik maupun sukses didunia kerja. Alumni dengan kedekatan publik juga dapat menarik perhatian Calon mahasiswa
 
-# Sprint Planning [MauKuliah Sprint.xlsx](https://github.com/itsmaru/MauKuliah/files/9469983/MauKuliah.Sprint.xlsx)
+# e. Sprint Planning [MauKuliah Sprint.xlsx](https://github.com/itsmaru/MauKuliah/files/9469983/MauKuliah.Sprint.xlsx)
 
        Sebelum running sprint, kita akan lakukan kickoff meeting guna menyamakan konsep dan persepsi tentang MauKuliah dengan semua tim terlibat.
        Sprint planning yang berikut dengan tanggal merupakan menjadi komitmen bersama untuk dicapai
@@ -78,7 +79,8 @@ Bukan hanya Alumni berprestasi dibidang Akademik maupun sukses didunia kerja. Al
        setiap pagi akan dilakukan standup meeting untuk update dari setiap bagian, baik berupa progres maupun kendala yang ada
 
 
-# Saat MVP release ke Production, internal tim akan melakukan Production Trial Run guna memastikan semua telah sesuai dengan konsep awal
+# f. Saat MVP release ke Production
+       internal tim akan melakukan Production Trial Run guna memastikan semua telah sesuai dengan konsep awal
        memantau penggunaan produk termasuk jika ternyata ditemukan bug ataupun kendala 
        dan juga menginfokan kepada tim lain untuk dapat mengajak calon mahasiswa untuk mengakses MauKuliah
        
