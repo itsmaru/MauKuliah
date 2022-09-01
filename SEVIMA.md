@@ -86,7 +86,7 @@ Bukan hanya Alumni berprestasi dibidang Akademik maupun sukses didunia kerja. Al
        
 # 2. Produk Sevima
 
-### Berikut adalah summary review produk SEVIMA
+### Berikut adalah file summary review produk SEVIMA
 
 [Produk Sevima.pdf](https://github.com/itsmaru/MauKuliah/files/9471627/Produk.Sevima.pdf)
 
