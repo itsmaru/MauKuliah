@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/100457770/187919280-4a714d1d-8b10-4c85
 # Dan akan menggunakan CSAT (Customer Satisfaction) sebagai Support Method
 
 # Basic PRD
-[MauKuliah.pdf](https://github.com/itsmaru/MauKuliah/files/9469964/MauKuliah.pdf)
+[MauKuliahFLowchart.pdf](https://github.com/itsmaru/MauKuliah/files/9469964/MauKuliahFlowchart.pdf)
 
 ## Landing Page
 Landing Page akan menampilkan sesuatu yang fun sesuai dengan tema dibulan itu. misal seperti dibulan mei yang bertepatan dengan Puasa Ramadhan dan Hari raya, maka ornament akan ada nuansa yang sesuai misal ketupat, wording pembuka menggunakan kalimat seperti , "Udah tau mau pakai baju apa nanti waktu lebaran? warna merah atau biru? kalo jurusan kuliah udah tau belum mau ambil jurusan apa? ini Makumin* kasih tau beberapa ide jurusan buat kamu" lalu menampilkan beberapa kampus dengan jurusan terbaiknya
